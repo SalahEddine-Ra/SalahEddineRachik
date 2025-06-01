@@ -49,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 8px;">
   Connect with me on LinkedIn
 </a> 
+
 📧 Email: salaheddine.rachik.zl@gmail.com
 
 ---
