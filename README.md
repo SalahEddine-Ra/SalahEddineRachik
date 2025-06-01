@@ -45,7 +45,10 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/salaheddine-rachik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+<a href="https://www.linkedin.com/in/salaheddine-rachik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none; color: #0A66C2; font-weight: bold;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 8px;">
+  Connect with me on LinkedIn
+</a> 
 📧 Email: salaheddine.rachik.zl@gmail.com
 
 ---
