@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Salah Eddine Rachik
 
-🎯 I'm a **Full Stack Developer** who loves building clean, functional, and creative web experiences.  
-💻 Passionate about coding, solving problems, and continuously learning new technologies.
+🎯 I'm a **Full Stack Developer** passionate about building dynamic and functional web applications.  
+💡 I love turning ideas into user-friendly experiences using HTML, CSS, JavaScript, PHP, and MySQL.
 
 ---
 
@@ -19,35 +19,35 @@
 
 ## 📂 Featured Projects
 
-- 🌐 **Portfolio Website** – Coming soon!
-- 🛠️ **CRUD App in PHP/MySQL** – A simple web app for managing data.
-- 🎯 **Mini JavaScript Games** – Small fun projects to strengthen frontend logic.
-
-*(Add links when your projects are on GitHub!)*
+- 🌐 [**Personal Portfolio**](https://salaheddinedev.zertline.com) – Showcasing my skills and experience.
+- ✅ [**Task Manager**](https://salaheddine-ra.github.io/To-do-liste/) – A simple to-do list made with HTML and JavaScript.
+- 🛍️ [**E-Commerce Platform**](https://elites-style.zertline.com/) – A clothing store (frontend, non-responsive for now).
+- 🏦 [**Bank System**](https://github.com/SalahEddine-Ra/Bank-System) – Full system with PHP, JS, MySQL, Bootstrap.
+- 🏫 [**Institute Portfolio Website**](https://groupelexcellence.net/) – Built collaboratively for an educational institute.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Salah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalahEddineRachik&show_icons=true&theme=default)
+![Salah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalahEddine-Ra&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahEddineRachik&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahEddine-Ra&layout=compact)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Laravel & REST APIs
-- Frontend frameworks like React
-- Project deployment & GitHub Actions
+- Laravel & REST APIs  
+- React.js & responsive design  
+- GitHub Actions for automation & deployment
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
-📧 Email: your.email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/salaheddine-rachik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+📧 Email: salaheddine.rachik.zl@gmail.com
 
 ---
 
-> “Keep going. Each line of code brings you closer to mastery.”
+> “Code is like building a house — the better the foundation, the stronger the result.”
