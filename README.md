@@ -14,6 +14,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 ---
 
@@ -24,14 +25,6 @@
 - 🛍️ [**E-Commerce Platform**](https://elites-style.zertline.com/) – A clothing store (frontend, non-responsive for now).
 - 🏦 [**Bank System**](https://github.com/SalahEddine-Ra/Bank-System) – Full system with PHP, JS, MySQL, Bootstrap.
 - 🏫 [**Institute Portfolio Website**](https://groupelexcellence.net/) – Built collaboratively for an educational institute.
-
----
-
-## 📊 GitHub Stats
-
-![Salah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalahEddine-Ra&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahEddine-Ra&layout=compact)
 
 ---
 
