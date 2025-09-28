@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Salah Eddine Rachik
 
 🎯 I'm a **Full Stack Developer** passionate about building dynamic and functional web applications.  
-💡 I love turning ideas into user-friendly experiences using HTML, CSS, JavaScript, PHP, and MySQL.
+💡 I love turning ideas into user-friendly experiences using modern frameworks.
 
 ---
 
@@ -25,13 +25,15 @@
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
 </div>
 
 ---
 
 ## 📂 Featured Projects
 
-- 🌐 [**Personal Portfolio**](https://salaheddinedev.zertline.com) – Showcasing my skills and experience.
+- 🌐 [**Personal Portfolio**](https://salah-eddine-rachik.netlify.com) – Showcasing my skills and experience.
 - ✅ [**Task Manager**](https://salaheddine-ra.github.io/To-do-liste/) – A simple to-do list made with HTML and JavaScript.
 - 🛍️ [**E-Commerce Platform**](https://elites-style.zertline.com/) – A clothing store (frontend, non-responsive for now).
 - 🏦 [**Bank System**](https://github.com/SalahEddine-Ra/Bank-System) – Full system with PHP, JS, MySQL, Bootstrap.
@@ -41,7 +43,7 @@
 
 ## 🌱 Currently Learning
 
-- Laravel & REST APIs  
+- ASP.NET core API
 - React.js & responsive design  
 - GitHub Actions for automation & deployment
 
