@@ -33,7 +33,7 @@
 
 ## 📂 Featured Projects
 
-- 🌐 [**Personal Portfolio**](https://salah-eddine-rachik.netlify.com) – Showcasing my skills and experience.
+- 🌐 [**Personal Portfolio**](https://salah-eddine-rachik.netlify.app) – Showcasing my skills and experience.
 - ✅ [**Task Manager**](https://salaheddine-ra.github.io/To-do-liste/) – A simple to-do list made with HTML and JavaScript.
 - 🛍️ [**E-Commerce Platform**](https://elites-style.zertline.com/) – A clothing store (frontend, non-responsive for now).
 - 🏦 [**Bank System**](https://github.com/SalahEddine-Ra/Bank-System) – Full system with PHP, JS, MySQL, Bootstrap.
