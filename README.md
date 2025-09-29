@@ -52,7 +52,7 @@
 ## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/salaheddine-rachik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none; color: #0A66C2; font-weight: bold;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 8px;">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   Connect with me on LinkedIn
 </a> 
 
